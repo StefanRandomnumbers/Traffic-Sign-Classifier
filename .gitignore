@@ -2,6 +2,8 @@
 build/*
 */build_64/*
 */signData/*
+!*/signData/test/*
+!*/signData/train/*
 */GermanTraficSignBenchmark/*
 *.jpg
 *.tif
