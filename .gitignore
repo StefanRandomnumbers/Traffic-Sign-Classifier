@@ -1,0 +1,10 @@
+*/build/*
+build/*
+*/build_64/*
+*/signData/*
+*/GermanTraficSignBenchmark/*
+*.jpg
+*.tif
+*.tiff
+*.png
+*.ppm
