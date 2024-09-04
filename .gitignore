@@ -6,6 +6,8 @@ build/*
 *.tiff
 *.png
 *.ppm
-*/signData/*
-!**/signData/test/*
-!**/signData/train/*
+**/signData/achten/*
+**/signData/ohne/*
+**/signData/stop/*
+**/signData/vorfahrt/*
+**/signData/vorfahrt_str/*
