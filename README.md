@@ -1,4 +1,7 @@
 # Traffic-Sign-Classifier
+
+![image](https://github.com/user-attachments/assets/d94f9098-34d9-451d-b06c-13e578475d62)
+
 A computer vision project utilizing various filter techniques to preprocess an image to finally use a Multilayered Perceptron Neuralnetwork to classify the regions in an image that display one of the following german traffic signs: Stoppschild, Vorfahrt, Vorfahrtstraße, Vorfahrt achten. The project was designed to function with a small set of data for the NN, so that good preprocessing is needed to get good results, because the project focuses more on the computer vision aspect. 
 
 
